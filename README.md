@@ -30,7 +30,7 @@
 </div>
   
   
-<img align="center" src="https://media.tenor.com/yGuwaZs39_QAAAAd/gats.gif"> 
+<img align="right" src="https://media.tenor.com/yGuwaZs39_QAAAAd/gats.gif"> 
 
 
   
