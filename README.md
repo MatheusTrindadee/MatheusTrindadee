@@ -31,5 +31,5 @@
   
   
   
-![Snake animation](https://github.com/MatheusTrindadee/MatheusTrindadee/blob/output/github-contribution-grid-snake.svg)
+
 
