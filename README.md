@@ -4,7 +4,7 @@
 
 - 🌠 Iniciando na carreira de Programação
 
-= 🖥 Cursando programação online pela DevMedia
+- 🖥 Cursando programação online pela DevMedia
 
 - 🎮 Gosto de jogar
 
