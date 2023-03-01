@@ -27,9 +27,10 @@
 <a href="https://github.com/MatheusTrindadee">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusTrindadee&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusTrindadee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img src="https://media.tenor.com/yGuwaZs39_QAAAAd/gats.gif"> 
 </div>
   
+  
+<img src="https://media.tenor.com/yGuwaZs39_QAAAAd/gats.gif"> 
 
 
   
