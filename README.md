@@ -1,4 +1,4 @@
-👋🏻 Oi, me chamo Matheus. Seja bem-vindo ao meu perfil!
+## 👋🏻 Oi, me chamo Matheus. Seja bem-vindo ao meu perfil!
 
 🎯 Atualmente estudo na faculdade de Análise e Desenvolvimento de Sistemas
 
@@ -14,4 +14,4 @@
 
 🍣 SUSHI!
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
