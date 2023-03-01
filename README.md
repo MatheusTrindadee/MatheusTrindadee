@@ -1,8 +1,8 @@
 ## 👋🏻 Oi, me chamo Matheus. Seja bem-vindo ao meu perfil!
 
-🎯 Atualmente estudo na faculdade de Análise e Desenvolvimento de Sistemas
+- 🎯 Atualmente estudo na faculdade de Análise e Desenvolvimento de Sistemas
 
-🌠 Iniciando na carreira de Programação
+- 🌠 Iniciando na carreira de Programação
 
 🖥 Cursando programação online pela DevMedia
 
