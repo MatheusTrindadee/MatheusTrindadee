@@ -33,7 +33,7 @@
 <img src="https://media.tenor.com/yGuwaZs39_QAAAAd/gats.gif"> 
 
   
-![Snake animation](https://github.com/MatheusTrindadee/MatheusTrindadee/blob/output/github-contribution-grid-snake.svg)
+
 
   
 
