@@ -13,3 +13,5 @@
 🔱 Gosto de treinar 
 
 🍣 SUSHI!
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
