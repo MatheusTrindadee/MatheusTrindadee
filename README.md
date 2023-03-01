@@ -4,15 +4,15 @@
 
 - 🌠 Iniciando na carreira de Programação
 
-🖥 Cursando programação online pela DevMedia
+= 🖥 Cursando programação online pela DevMedia
 
-🎮 Gosto de jogar
+- 🎮 Gosto de jogar
 
-📖 Gosto de ler, escrever e compor
+- 📖 Gosto de ler, escrever e compor
 
-🔱 Gosto de treinar 
+- 🔱 Gosto de treinar 
 
-🍣 SUSHI!
+- 🍣 SUSHI!
 
 
 ## Estou Aprendendo
