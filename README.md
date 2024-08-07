@@ -2,13 +2,9 @@
 
 - 🎯 Atualmente estudo no UniSenai, cursando Análise e Desenvolvimento de Sistemas
 
-- 🌠 Iniciando na carreira de Programação
+- 🌠 Mais de um ano de experiência na área
 
-- 🎮 Gosto de jogar
-
-- 🔱 Gosto de treinar 
-
-- 🍣 SUSHI!
+- 🎮 Conhecimento em: Vue.js | Flutter | PHP
 
 
 ## Estou Aprendendo
@@ -26,7 +22,7 @@
 </div>
   
   
-<img style="display: flex; align-items: center; justify-content: center;" src="https://media.tenor.com/yGuwaZs39_QAAAAd/gats.gif"> 
+<img src="https://media.tenor.com/yGuwaZs39_QAAAAd/gats.gif"> 
   
 
 
