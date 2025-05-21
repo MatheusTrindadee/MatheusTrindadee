@@ -1,6 +1,6 @@
 ## 👋🏻 Oi, me chamo Matheus. Seja bem-vindo ao meu perfil!
 
-- 🎯 Atualmente estudo no UniSenai, cursando Análise e Desenvolvimento de Sistemas
+- 🎯 Formado em Análise e Desenvolvimento de Sistemas
 
 - 🌠 Mais de um ano de experiência na área
 
